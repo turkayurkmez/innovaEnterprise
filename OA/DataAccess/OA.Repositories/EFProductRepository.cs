@@ -1,4 +1,6 @@
-﻿using OA.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using OA.Data.Context;
+using OA.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +11,12 @@ namespace OA.Repositories
 {
     public class EFProductRepository : IProductRepository
     {
-        
+        private readonly InnovaDbContext context;
+
+        public EFProductRepository(InnovaDbContext context)
+        {
+            this.context = context;
+        }
         public Task<int> Add(Product entity)
         {
             throw new NotImplementedException();
@@ -27,7 +34,7 @@ namespace OA.Repositories
 
         public async Task<IList<Product>> GetAll()
         {
-            throw new NotImplementedException();
+            return await context.Products.ToListAsync();
         }
 
         public Task<IEnumerable<Product>> GetProductsByCategory(int categoryId)
