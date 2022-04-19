@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\bin\Debug\net6.0\OA.Entities.deps.json
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\bin\Debug\net6.0\OA.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\bin\Debug\net6.0\OA.Entities.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\obj\Debug\net6.0\OA.Entities.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\obj\Debug\net6.0\OA.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\obj\Debug\net6.0\OA.Entities.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\obj\Debug\net6.0\OA.Entities.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\obj\Debug\net6.0\OA.Entities.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\obj\Debug\net6.0\OA.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\obj\Debug\net6.0\refint\OA.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\obj\Debug\net6.0\OA.Entities.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Entities\obj\Debug\net6.0\ref\OA.Entities.dll

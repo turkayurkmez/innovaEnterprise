@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OA.DataTransferObjects/1.0.0": {
+        "runtime": {
+          "OA.DataTransferObjects.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OA.DataTransferObjects/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

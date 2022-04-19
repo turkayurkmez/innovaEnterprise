@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\bin\Debug\net6.0\OA.Repositories.deps.json
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\bin\Debug\net6.0\OA.Repositories.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\bin\Debug\net6.0\OA.Repositories.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\bin\Debug\net6.0\OA.Data.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\bin\Debug\net6.0\OA.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\bin\Debug\net6.0\OA.Data.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\bin\Debug\net6.0\OA.Entities.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\OA.Repositories.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\OA.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\OA.Repositories.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\OA.Repositories.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\OA.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\OA.Repositories.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\OA.Repositories.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\refint\OA.Repositories.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\OA.Repositories.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\ref\OA.Repositories.dll

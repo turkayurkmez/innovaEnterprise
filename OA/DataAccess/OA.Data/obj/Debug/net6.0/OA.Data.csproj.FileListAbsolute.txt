@@ -1,0 +1,17 @@
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\bin\Debug\net6.0\OA.Data.deps.json
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\bin\Debug\net6.0\OA.Data.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\bin\Debug\net6.0\OA.Data.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\bin\Debug\net6.0\OA.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\bin\Debug\net6.0\OA.Entities.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\OA.Data.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\OA.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\OA.Data.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\OA.Data.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\OA.Data.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\OA.Data.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\OA.Data.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\refint\OA.Data.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\OA.Data.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\ref\OA.Data.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\bin\Debug\net6.0\OA.Data.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Data\obj\Debug\net6.0\OA.Data.genruntimeconfig.cache

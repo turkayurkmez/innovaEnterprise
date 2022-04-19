@@ -1,0 +1,12 @@
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\bin\Debug\net6.0\OA.DataTransferObjects.deps.json
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\bin\Debug\net6.0\OA.DataTransferObjects.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\bin\Debug\net6.0\OA.DataTransferObjects.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\obj\Debug\net6.0\OA.DataTransferObjects.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\obj\Debug\net6.0\OA.DataTransferObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\obj\Debug\net6.0\OA.DataTransferObjects.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\obj\Debug\net6.0\OA.DataTransferObjects.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\obj\Debug\net6.0\OA.DataTransferObjects.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\obj\Debug\net6.0\OA.DataTransferObjects.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\obj\Debug\net6.0\refint\OA.DataTransferObjects.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\obj\Debug\net6.0\OA.DataTransferObjects.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\OA.DataTransferObjects\obj\Debug\net6.0\ref\OA.DataTransferObjects.dll
