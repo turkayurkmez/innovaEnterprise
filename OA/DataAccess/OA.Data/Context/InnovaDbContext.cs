@@ -10,6 +10,10 @@ namespace OA.Data.Context
 {
     public class InnovaDbContext : DbContext
     {
+        public InnovaDbContext()
+        {
+
+        }
         public InnovaDbContext(DbContextOptions<InnovaDbContext> options) : base(options)
         {
             //1. ConnectionString

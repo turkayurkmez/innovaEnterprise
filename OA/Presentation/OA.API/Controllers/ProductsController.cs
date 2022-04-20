@@ -15,6 +15,7 @@ namespace OA.API.Controllers
             this.productService = productService;
         }
         [HttpGet]
+        //[ResponseCache(Duration =60)]
         public async Task<IActionResult> Get()
         {
             var products = await productService.GetProducts();

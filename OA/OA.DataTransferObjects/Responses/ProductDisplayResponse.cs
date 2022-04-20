@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace OA.DataTransferObjects.Responses
 {
-    public class ProductDisplayResponse
+    [Serializable]
+    public class ProductDisplayResponse 
     {
         public int Id { get; set; }
         public string Name { get; set; }

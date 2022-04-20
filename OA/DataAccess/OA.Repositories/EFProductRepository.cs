@@ -17,9 +17,12 @@ namespace OA.Repositories
         {
             this.context = context;
         }
-        public Task<int> Add(Product entity)
+        public async  Task<int> Add(Product entity)
         {
-            throw new NotImplementedException();
+            await context.Products.AddAsync(entity);
+            await context.SaveChangesAsync();
+            return entity.Id;
+
         }
 
         public Task Delete(Product entity)
