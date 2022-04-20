@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.exe
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.deps.json
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\bin\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\refint\DecoratorPattern.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\DecoratorPattern.genruntimeconfig.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\DecoratorPattern\DecoratorPattern\obj\Debug\net6.0\ref\DecoratorPattern.dll

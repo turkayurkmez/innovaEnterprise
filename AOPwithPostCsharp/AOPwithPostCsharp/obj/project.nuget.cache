@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "7naz68Heb8ZhBVBMrznIl6hFuoO6mali918DjPb3/ww5CMkvJH5GD41xY5Ix2FCp0G5tQzag0r8NRuY2hl+CWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Innova\\Part II\\AOPwithPostCsharp\\AOPwithPostCsharp\\AOPwithPostCsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\postsharp\\6.10.9\\postsharp.6.10.9.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\postsharp.redist\\6.10.9\\postsharp.redist.6.10.9.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
