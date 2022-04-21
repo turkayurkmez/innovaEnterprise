@@ -14,6 +14,11 @@
         },
         "runtime": {
           "OA.API.dll": {}
+        },
+        "resources": {
+          "en/OA.API.resources.dll": {
+            "locale": "en"
+          }
         }
       },
       "AutoMapper/11.0.0": {

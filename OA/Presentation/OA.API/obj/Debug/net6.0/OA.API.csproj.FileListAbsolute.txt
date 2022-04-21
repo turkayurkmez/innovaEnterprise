@@ -71,3 +71,8 @@ C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\bin\D
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\bin\Debug\net6.0\AutoMapper.dll
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\obj\Debug\net6.0\OA.API.Resources.ModelResource.resources
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\obj\Debug\net6.0\OA.API.Resources.ModelResource.en.resources
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\obj\Debug\net6.0\OA.API.csproj.GenerateResource.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\bin\Debug\net6.0\en\OA.API.resources.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\obj\Debug\net6.0\en\OA.API.resources.dll

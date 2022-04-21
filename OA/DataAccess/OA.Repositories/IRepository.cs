@@ -12,7 +12,8 @@ namespace OA.Repositories
         Task<IList<T>> GetAll();
         Task<T> Get(int id);
         Task<int> Add(T entity);
-        Task<T> Update(T entity);
-        Task Delete(T entity);
+        Task<int> Update(T entity);
+        Task Delete(int id);
+        Task<bool> IsExists(int id);
     }
 }

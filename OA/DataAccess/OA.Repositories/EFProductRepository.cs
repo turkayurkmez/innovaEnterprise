@@ -17,7 +17,7 @@ namespace OA.Repositories
         {
             this.context = context;
         }
-        public async  Task<int> Add(Product entity)
+        public async Task<int> Add(Product entity)
         {
             await context.Products.AddAsync(entity);
             await context.SaveChangesAsync();
@@ -25,9 +25,11 @@ namespace OA.Repositories
 
         }
 
-        public Task Delete(Product entity)
+        public Task Delete(int id)
         {
-            throw new NotImplementedException();
+            var product = context.Products.FirstOrDefault(p => p.Id == id);
+            context.Products.Remove(product);
+            return context.SaveChangesAsync();
         }
 
         public Task<Product> Get(int id)
@@ -45,14 +47,21 @@ namespace OA.Repositories
             throw new NotImplementedException();
         }
 
+        public async Task<bool> IsExists(int id)
+        {
+           return await  context.Products.AnyAsync(x => x.Id == id);
+        }
+
         public Task<IEnumerable<Product>> Search(string search)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Product> Update(Product entity)
+        public async Task<int> Update(Product entity)
         {
-            throw new NotImplementedException();
+            context.Products.Update(entity);
+            var affectedRows = await context.SaveChangesAsync();
+            return affectedRows;
         }
     }
 }

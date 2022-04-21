@@ -22,7 +22,8 @@ namespace OA.Entities
 
         public DateTime? DateCreated { get; set; }
         public DateTime? DateUpdated { get; set; }
-        public int Stock { get; set; }
+        public int Stock { get; set; } = 0;
+
       
         
     }

@@ -28,7 +28,7 @@ namespace OA.Repositories
             throw new NotImplementedException();
         }
 
-        public Task Delete(Product entity)
+        public Task Delete(int entity)
         {
             throw new NotImplementedException();
         }
@@ -50,7 +50,7 @@ namespace OA.Repositories
             throw new NotImplementedException();
         }
 
-        public Task<Product> Update(Product entity)
+        public Task<int> Update(Product entity)
         {
             throw new NotImplementedException();
         }
@@ -58,6 +58,11 @@ namespace OA.Repositories
        public async Task<IList<Product>> GetAll()
         {
             return products;
+        }
+
+        public Task<bool> IsExists(int id)
+        {
+            throw new NotImplementedException();
         }
     }
   

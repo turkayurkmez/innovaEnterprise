@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using OA.DataTransferObjects.Requests;
 using OA.DataTransferObjects.Responses;
 using OA.Entities;
 using System;
@@ -14,6 +15,8 @@ namespace OA.Services.Mapping
         public MappingProfile()
         {
             CreateMap<Product, ProductDisplayResponse>();
+            CreateMap<AddProductRequest, Product>();
+            CreateMap<UpdateProductRequest, Product>();
         }
     }
 }
