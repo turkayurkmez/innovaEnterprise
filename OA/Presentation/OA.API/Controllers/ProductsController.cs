@@ -21,8 +21,7 @@ namespace OA.API.Controllers
 
         public async Task<IActionResult> Get()
         {
-            var products = await productService.GetProducts();
-            throw new NotImplementedException();
+            var products = await productService.GetProducts();        
             return Ok(products);
         }
 

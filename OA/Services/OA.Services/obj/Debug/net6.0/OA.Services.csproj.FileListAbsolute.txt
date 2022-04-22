@@ -19,3 +19,5 @@ C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Services\OA.Services\obj\
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Services\OA.Services\obj\Debug\net6.0\refint\OA.Services.dll
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Services\OA.Services\obj\Debug\net6.0\OA.Services.pdb
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Services\OA.Services\obj\Debug\net6.0\ref\OA.Services.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Services\OA.Services\bin\Debug\net6.0\OA.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Services\OA.Services\bin\Debug\net6.0\OA.Infrastructure.pdb

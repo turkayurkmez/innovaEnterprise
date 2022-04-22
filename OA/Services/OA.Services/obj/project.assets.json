@@ -657,11 +657,25 @@
           "bin/placeholder/OA.Entities.dll": {}
         }
       },
+      "OA.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "OA.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OA.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OA.Infrastructure.dll": {}
+        }
+      },
       "OA.Repositories/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "OA.Data": "1.0.0"
+          "OA.Data": "1.0.0",
+          "OA.Infrastructure": "1.0.0"
         },
         "compile": {
           "bin/placeholder/OA.Repositories.dll": {}
@@ -1878,6 +1892,11 @@
       "type": "project",
       "path": "../../Common/OA.Entities/OA.Entities.csproj",
       "msbuildProject": "../../Common/OA.Entities/OA.Entities.csproj"
+    },
+    "OA.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../../Common/OA.Infrastructure/OA.Infrastructure.csproj",
+      "msbuildProject": "../../Common/OA.Infrastructure/OA.Infrastructure.csproj"
     },
     "OA.Repositories/1.0.0": {
       "type": "project",

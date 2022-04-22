@@ -503,9 +503,18 @@
           "OA.Entities.dll": {}
         }
       },
+      "OA.Infrastructure/1.0.0": {
+        "dependencies": {
+          "OA.Entities": "1.0.0"
+        },
+        "runtime": {
+          "OA.Infrastructure.dll": {}
+        }
+      },
       "OA.Repositories/1.0.0": {
         "dependencies": {
-          "OA.Data": "1.0.0"
+          "OA.Data": "1.0.0",
+          "OA.Infrastructure": "1.0.0"
         },
         "runtime": {
           "OA.Repositories.dll": {}
@@ -824,6 +833,11 @@
       "sha512": ""
     },
     "OA.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "OA.Infrastructure/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

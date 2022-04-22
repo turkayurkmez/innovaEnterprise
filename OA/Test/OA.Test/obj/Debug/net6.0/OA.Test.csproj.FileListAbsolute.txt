@@ -155,3 +155,6 @@ C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Test\OA.Test\bin\Debug\ne
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Test\OA.Test\bin\Debug\net6.0\OA.DataTransferObjects.pdb
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Test\OA.Test\bin\Debug\net6.0\OA.Entities.pdb
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Test\OA.Test\bin\Debug\net6.0\OA.Repositories.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Test\OA.Test\bin\Debug\net6.0\en\OA.API.resources.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Test\OA.Test\bin\Debug\net6.0\OA.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Test\OA.Test\bin\Debug\net6.0\OA.Infrastructure.pdb

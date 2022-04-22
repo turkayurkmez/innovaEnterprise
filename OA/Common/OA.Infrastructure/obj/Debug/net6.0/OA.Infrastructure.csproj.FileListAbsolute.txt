@@ -1,0 +1,15 @@
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\bin\Debug\net6.0\OA.Infrastructure.deps.json
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\bin\Debug\net6.0\OA.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\bin\Debug\net6.0\OA.Infrastructure.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\bin\Debug\net6.0\OA.Entities.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\bin\Debug\net6.0\OA.Entities.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\obj\Debug\net6.0\OA.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\obj\Debug\net6.0\OA.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\obj\Debug\net6.0\OA.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\obj\Debug\net6.0\OA.Infrastructure.AssemblyInfo.cs
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\obj\Debug\net6.0\OA.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\obj\Debug\net6.0\OA.Infrastructure.csproj.CopyComplete
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\obj\Debug\net6.0\OA.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\obj\Debug\net6.0\refint\OA.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\obj\Debug\net6.0\OA.Infrastructure.pdb
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Common\OA.Infrastructure\obj\Debug\net6.0\ref\OA.Infrastructure.dll

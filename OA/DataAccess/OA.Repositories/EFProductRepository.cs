@@ -1,8 +1,11 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using OA.Data.Context;
 using OA.Entities;
+using OA.Infrastructure.DomainRules;
+using OA.Infrastructure.Extensions;
 using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,9 +22,22 @@ namespace OA.Repositories
         }
         public async Task<int> Add(Product entity)
         {
-            await context.Products.AddAsync(entity);
-            await context.SaveChangesAsync();
-            return entity.Id;
+            AddProductSpesification productSpesification = new AddProductSpesification();
+            var isSatisfied = productSpesification.IsSatisfiedBy(entity);
+            if (isSatisfied)
+            {
+                await context.Products.AddAsync(entity);
+                await context.SaveChangesAsync();
+                return entity.Id;
+            }
+            else
+            {
+                throw productSpesification.Notify();
+            }
+
+
+
+
 
         }
 
@@ -39,7 +55,21 @@ namespace OA.Repositories
 
         public async Task<IList<Product>> GetAll()
         {
-            return await context.Products.ToListAsync();
+            // TODO 1: use eager loading          
+            return await context.Products.Include(x=>x.Category).ToListAsync();
+
+        }
+
+        public ExpandoObject Test()
+        {
+            var expando = new ExpandoObject();
+            var result = context.Categories.FromSqlRaw("SELECT * FROM Products").Select(p => new { Id = p.Id, Name = p.Name }).ToList();  
+           
+            expando.AddAnonymousType(result);
+
+
+
+            return expando;
         }
 
         public Task<IEnumerable<Product>> GetProductsByCategory(int categoryId)
@@ -49,7 +79,7 @@ namespace OA.Repositories
 
         public async Task<bool> IsExists(int id)
         {
-           return await  context.Products.AnyAsync(x => x.Id == id);
+            return await context.Products.AnyAsync(x => x.Id == id);
         }
 
         public Task<IEnumerable<Product>> Search(string search)

@@ -621,6 +621,19 @@
         "runtime": {
           "bin/placeholder/OA.Entities.dll": {}
         }
+      },
+      "OA.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "OA.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OA.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OA.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -1795,11 +1808,17 @@
       "type": "project",
       "path": "../../Common/OA.Entities/OA.Entities.csproj",
       "msbuildProject": "../../Common/OA.Entities/OA.Entities.csproj"
+    },
+    "OA.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../../Common/OA.Infrastructure/OA.Infrastructure.csproj",
+      "msbuildProject": "../../Common/OA.Infrastructure/OA.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "OA.Data >= 1.0.0"
+      "OA.Data >= 1.0.0",
+      "OA.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1829,6 +1848,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\turka\\source\\repos\\Kurumsal\\Innova\\Part II\\OA\\Common\\OA.Infrastructure\\OA.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Innova\\Part II\\OA\\Common\\OA.Infrastructure\\OA.Infrastructure.csproj"
+            },
             "C:\\Users\\turka\\source\\repos\\Kurumsal\\Innova\\Part II\\OA\\DataAccess\\OA.Data\\OA.Data.csproj": {
               "projectPath": "C:\\Users\\turka\\source\\repos\\Kurumsal\\Innova\\Part II\\OA\\DataAccess\\OA.Data\\OA.Data.csproj"
             }

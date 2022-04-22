@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataAccess", "DataAccess", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{E8C63A41-42B6-4E91-AA07-89FEF2B12542}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.API", "Presentation\OA.API\OA.API.csproj", "{6CC4DC4B-5D7A-4777-A9D0-E9A64B99A9EF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA.API", "Presentation\OA.API\OA.API.csproj", "{6CC4DC4B-5D7A-4777-A9D0-E9A64B99A9EF}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA.Data", "DataAccess\OA.Data\OA.Data.csproj", "{9ABCBF2E-862A-4052-B032-36CA73AA0B70}"
 EndProject
@@ -19,13 +19,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA.Entities", "Common\OA.En
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA.Services", "Services\OA.Services\OA.Services.csproj", "{5B786428-EABB-4298-B88E-0D3AA00F1D31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.Repositories", "DataAccess\OA.Repositories\OA.Repositories.csproj", "{C36A0F37-9DC7-4995-AE52-776CD3A5B05D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA.Repositories", "DataAccess\OA.Repositories\OA.Repositories.csproj", "{C36A0F37-9DC7-4995-AE52-776CD3A5B05D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{589A2FE6-0583-4F30-AAA7-479C1E867E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.Test", "Test\OA.Test\OA.Test.csproj", "{9016A0CD-31A0-44E6-87CC-7A8CB6F3B4AA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA.Test", "Test\OA.Test\OA.Test.csproj", "{9016A0CD-31A0-44E6-87CC-7A8CB6F3B4AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.DataTransferObjects", "OA.DataTransferObjects\OA.DataTransferObjects.csproj", "{AFD91D16-C011-433E-B8C6-7381FA50E9A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OA.DataTransferObjects", "OA.DataTransferObjects\OA.DataTransferObjects.csproj", "{AFD91D16-C011-433E-B8C6-7381FA50E9A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OA.Infrastructure", "Common\OA.Infrastructure\OA.Infrastructure.csproj", "{FE0DD0B1-0A3D-4768-AFC8-B6DD5952E9EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -61,6 +63,10 @@ Global
 		{AFD91D16-C011-433E-B8C6-7381FA50E9A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AFD91D16-C011-433E-B8C6-7381FA50E9A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AFD91D16-C011-433E-B8C6-7381FA50E9A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0DD0B1-0A3D-4768-AFC8-B6DD5952E9EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0DD0B1-0A3D-4768-AFC8-B6DD5952E9EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0DD0B1-0A3D-4768-AFC8-B6DD5952E9EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0DD0B1-0A3D-4768-AFC8-B6DD5952E9EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -73,6 +79,7 @@ Global
 		{C36A0F37-9DC7-4995-AE52-776CD3A5B05D} = {D30058FD-C21F-4CA3-A3F6-84E347A752DF}
 		{9016A0CD-31A0-44E6-87CC-7A8CB6F3B4AA} = {589A2FE6-0583-4F30-AAA7-479C1E867E28}
 		{AFD91D16-C011-433E-B8C6-7381FA50E9A2} = {3B79DF93-C506-43B8-BF97-4ACD7182BC65}
+		{FE0DD0B1-0A3D-4768-AFC8-B6DD5952E9EF} = {E8C63A41-42B6-4E91-AA07-89FEF2B12542}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D528087C-3B04-4636-91F0-B341F15DB907}

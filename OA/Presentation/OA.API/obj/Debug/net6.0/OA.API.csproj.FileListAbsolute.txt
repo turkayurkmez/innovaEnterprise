@@ -76,3 +76,6 @@ C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\obj\D
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\obj\Debug\net6.0\OA.API.csproj.GenerateResource.cache
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\bin\Debug\net6.0\en\OA.API.resources.dll
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\obj\Debug\net6.0\en\OA.API.resources.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\bin\Debug\net6.0\OA.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\Presentation\OA.API\bin\Debug\net6.0\OA.Infrastructure.pdb

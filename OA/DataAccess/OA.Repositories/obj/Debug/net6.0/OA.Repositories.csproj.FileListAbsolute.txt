@@ -15,3 +15,5 @@ C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositorie
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\refint\OA.Repositories.dll
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\OA.Repositories.pdb
 C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\obj\Debug\net6.0\ref\OA.Repositories.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\bin\Debug\net6.0\OA.Infrastructure.dll
+C:\Users\turka\source\repos\Kurumsal\Innova\Part II\OA\DataAccess\OA.Repositories\bin\Debug\net6.0\OA.Infrastructure.pdb

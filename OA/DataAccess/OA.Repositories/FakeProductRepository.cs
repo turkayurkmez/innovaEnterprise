@@ -1,6 +1,7 @@
 ﻿using OA.Entities;
 using System;
 using System.Collections.Generic;
+using System.Dynamic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -61,6 +62,11 @@ namespace OA.Repositories
         }
 
         public Task<bool> IsExists(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public ExpandoObject Test()
         {
             throw new NotImplementedException();
         }
